@@ -41,7 +41,6 @@ import re
 TEMPLATE = '''\
 # -*- coding: utf-8 -*-
 # EASY-INSTALL-ENTRY-SCRIPT: '{3}','{4}','{5}'
-__requires__ = '{3}'
 import re
 import sys
 
